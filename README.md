@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🦸‍♂️ Pokémon World: Gotta Know 'Em All! 🌍
 
 Welcome to **Pokémon World**! 🌟 This is a fun and interactive web app where you can search and view detailed information about your favorite Pokémon. It displays a list of the first 151 Pokémon and allows you to filter them by name, showcasing their images, types, and more! 🎮
