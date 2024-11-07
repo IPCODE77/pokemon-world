@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🦸‍♂️ Pokémon World: Gotta Know 'Em All! 🌍
 
 Welcome to **Pokémon World**! 🌟 This is a fun and interactive web app where you can search and view detailed information about your favorite Pokémon. It displays a list of the first 151 Pokémon and allows you to filter them by name, showcasing their images, types, and more! 🎮
@@ -61,3 +62,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Thank you for visiting **Pokémon World**! May your journey to become a Pokémon master be filled with excitement and joy! 🎉🐾
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> f562246 (Pokemon)
